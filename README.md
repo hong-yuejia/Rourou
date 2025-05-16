@@ -1,3 +1,9 @@
 # About me
-## SAS and R programmer
+Hi, I'm Rourou.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| SAS       |
+|     2| Python    |
+|     3| R         |
 ### 🤯
